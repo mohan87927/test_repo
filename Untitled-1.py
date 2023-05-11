@@ -1,1 +1,1 @@
-print("Repository craeted Successfully")
+print("Repository created Successfully")
